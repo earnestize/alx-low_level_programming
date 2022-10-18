@@ -1,1 +1,1 @@
-print
+tebalpha
