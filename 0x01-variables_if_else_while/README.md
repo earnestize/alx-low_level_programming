@@ -1,1 +1,1 @@
-tebalpha
+print comb
