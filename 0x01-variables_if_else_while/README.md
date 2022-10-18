@@ -1,1 +1,1 @@
-print comb
+print combo
