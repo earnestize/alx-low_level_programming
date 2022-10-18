@@ -1,1 +1,1 @@
-comb 4
+combo 5
