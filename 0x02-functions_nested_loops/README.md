@@ -1,1 +1,1 @@
-abs
+24 hours
